@@ -1,0 +1,163 @@
+2022-09-26 14:15:39.976+09:00 [6816:002] [Info] [RegularSkypeApplication] App constructor: process started. App version:14.53.77.0
+2022-09-26 14:15:40.400+09:00 [6816:002] [Info] [RegularSkypeApplication] OnBackgroundActivated 40229ca9-316b-4d8e-a993-9b266ab8df8e
+2022-09-26 14:15:40.456+09:00 [6816:002] [Info] [ExternalApi] Notifications enabled
+2022-09-26 14:15:40.459+09:00 [6816:002] [Info] [RegularSkypeApplication] EnsureReactNativeHostStarted: no bytecode file present to delete
+2022-09-26 14:15:40.462+09:00 [6816:002] [Info] [RegularSkypeApplication] EnsureReactNativeHostStarted: starting host
+2022-09-26 14:15:40.466+09:00 [6816:002] [Info] [RNW] ReactInstanceManager: constructor
+2022-09-26 14:15:40.469+09:00 [6816:002] [Info] [RegularSkypeApplication] EnsureReactNativeHostStarted: host started
+2022-09-26 14:15:40.469+09:00 [6816:002] [Info] [RNW] ReactInstanceManager: TryGetReactContextAsync - entry
+2022-09-26 14:15:40.469+09:00 [6816:002] [Info] [RNW] ReactInstanceManager: TryGetReactContextAsync - execute/returning existing null context
+2022-09-26 14:15:40.469+09:00 [6816:002] [Info] [ThemedPage] NotifyReactHostReady
+2022-09-26 14:15:40.469+09:00 [6816:002] [Info] [RegularSkypeApplication] GetReactContext: Creating ReactNative context (if not yet)
+2022-09-26 14:15:40.469+09:00 [6816:002] [Info] [RNW] ReactInstanceManager: GetOrCreateReactContextAsync - entry
+2022-09-26 14:15:40.469+09:00 [6816:002] [Info] [RNW] ReactInstanceManager: GetOrCreateReactContextAsync - execute
+2022-09-26 14:15:40.469+09:00 [6816:002] [Info] [RNW] ReactInstanceManager: Creating React context - entry
+2022-09-26 14:15:40.519+09:00 [6816:002] [Warn] [RNW] Can't create layout manager view; falling back to main view.
+2022-09-26 14:15:40.991+09:00 [6816:002] [Info] [SKPCamera] SKP Camera constructed
+2022-09-26 14:15:40.995+09:00 [6816:002] [Info] [RNCallMonitorModule] RNCallMonitorModule ctor
+2022-09-26 14:15:41.033+09:00 [6816:002] [Info] [RNWindowManagerModule] RNWindowManagerModule ctor
+2022-09-26 14:15:41.040+09:00 [6816:007] [Info] [RNW] AppStateModule: initial appState is background
+2022-09-26 14:15:41.040+09:00 [6816:007] [Info] [RNEntropyModule] Getting entropy seed
+2022-09-26 14:15:41.072+09:00 [6816:007] [Info] [RNW] Serialized bytecode script doesn't exist or is obsolete, will generate one
+2022-09-26 14:15:41.438+09:00 [6816:005] [Info] [RNW] AppStateModule: getCurrentAppState returned background
+2022-09-26 14:15:41.481+09:00 [6816:007] [Error] [JS] [#ffffffff-S] [ERROR] [JS.HockeyApp] Skipping - no HockeyApp ID or secret provided
+2022-09-26 14:15:41.494+09:00 [6816:005] [Warn] [RNW] Soft Exception: console.error: "[#ffffffff-S] [ERROR] [JS.HockeyApp] Skipping - no HockeyApp ID or secret provided"
+n.prototype.log
+    ms-appx:///ReactAssets/index.windows.bundle:260:1973
+Anonymous
+    function (ms-appx:///ReactAssets/index.windows.bundle:258:5627
+n.prototype.log
+    ms-appx:///ReactAssets/index.windows.bundle:258:5590
+e.prototype.error
+    ms-appx:///ReactAssets/index.windows.bundle:258:3080
+Anonymous
+    function (ms-appx:///ReactAssets/index.windows.bundle:255:11748
+k
+    ms-appx:///ReactAssets/index.windows.bundle:255:10623
+o.error
+    ms-appx:///ReactAssets/index.windows.bundle:255:11710
+e.prototype.startup
+    ms-appx:///ReactAssets/index.windows.bundle:2224:242
+
+2022-09-26 14:15:41.515+09:00 [6816:010] [Info] [CallKitManagerModule] CallTrackerTwoProcess constructed
+2022-09-26 14:15:41.515+09:00 [6816:010] [Info] [CallKitManagerModule] InitializeSkypeBackgroundHostProcess
+2022-09-26 14:15:41.515+09:00 [6816:010] [Info] [CallKitManagerModule] EnsureSkypeBackgroundHostProcessLaunched[0]: start
+2022-09-26 14:15:41.515+09:00 [6816:005] [Info] [RNCallMonitorModule] RNCallMonitorModule Initialize
+2022-09-26 14:15:41.515+09:00 [6816:005] [Info] [RNWindowManagerModule] Initialize
+2022-09-26 14:15:41.543+09:00 [6816:007] [Info] [JS] [#ffffffff-u] [TRACE] [JS.Startup] SkypeId missing in Storage
+2022-09-26 14:15:41.569+09:00 [6816:010] [Info] [CallKitManagerModule] EnsureSkypeBackgroundHostProcessLaunched[0]: complete
+2022-09-26 14:15:41.571+09:00 [6816:007] [Info] [JS] [#ffffffff-S] [TRACE] [JS.SISU] [QsoProvider] setIsFirstTimeSignIn: true isDeletionEnabledOnFirstTimeSignIn: true
+2022-09-26 14:15:41.571+09:00 [6816:007] [Info] [JS] [#ffffffff-S] [TRACE] [JS.SISU] [QsoProvider] removing all accounts
+2022-09-26 14:15:41.571+09:00 [6816:007] [Info] [JS] [#ffffffff-S] [TRACE] [JS.SISU] [InterruptHandlerProvider] setIsFirstTimeSignIn: true isDeletionEnabledOnFirstTimeSignIn: false
+2022-09-26 14:15:41.571+09:00 [6816:007] [Info] [JS] [#ffffffff-S] [TRACE] [JS.SISU] [MigratedCredentialsProvider] setIsFirstTimeSignIn: true isDeletionEnabledOnFirstTimeSignIn: false
+2022-09-26 14:15:41.604+09:00 [6816:007] [Info] [JS] [#ffffffff-S] [TRACE] [JS.ConsoleSink] initialized and paused
+2022-09-26 14:15:41.604+09:00 [6816:007] [Info] [JS] [#ffffffff-u] [TRACE] [JS.NativeCodeTelemetry] Early noop for onTelemetryEvent
+2022-09-26 14:15:41.604+09:00 [6816:005] [Info] [RNKeyChainModule] Delete Password
+2022-09-26 14:15:41.604+09:00 [6816:007] [Info] [JS] [#ffffffff-S] [TRACE] [JS.ConsoleSink] resumed
+2022-09-26 14:15:41.607+09:00 [6816:005] [Info] [RNKeyChainModule] deletePassword - Deleted credentials
+2022-09-26 14:15:41.613+09:00 [6816:010] [Info] [CallKitManagerModule] InitializeSkypeBackgroundHostProcess: registered SessionConnected task
+2022-09-26 14:15:41.656+09:00 [6816:009] [Info] [RNW] ReactInstanceManager: Creating React context - done
+2022-09-26 14:15:41.656+09:00 [6816:002] [Info] [RNW] ReactInstanceManager: Setting up React context - entry
+2022-09-26 14:15:41.656+09:00 [6816:002] [Info] [RNW] ReactInstanceManager: Setting up React context - done
+2022-09-26 14:15:41.656+09:00 [6816:009] [Info] [CallKitManagerModule] OnResume (causeId: 66e6549b-4f23-4528-9cd4-51960f26ac74)
+2022-09-26 14:15:41.656+09:00 [6816:002] [Info] [RNW] ReactInstanceManager: GetOrCreateReactContextAsync - returning valid context
+2022-09-26 14:15:41.656+09:00 [6816:002] [Info] [BackgroundTaskManager] OnBackgroundActivated 40229ca9-316b-4d8e-a993-9b266ab8df8e: BackgroundTaskStarted : HeadlessJSTask.StaticTask.OnAppUpdated2
+2022-09-26 14:15:41.656+09:00 [6816:007] [Info] [JS] [#ffffffff-S] [TRACE] [JS.SISU] [Login] starting, attempting credential migration...
+2022-09-26 14:15:41.673+09:00 [6816:007] [Warn] [JS] [#01f1280b-S] [WARN] [RootToolsManager] registerListeners: RootToolsManagerDelegate missing setNativeLoggingEventCallback method
+2022-09-26 14:15:41.673+09:00 [6816:007] [Info] [JS] [#ffffffff-S] [TRACE] [JS.Calling] CallingCapabilities.anyCallingSupported, oneToOneCallingSupported: true, groupCallingSupported: true
+2022-09-26 14:15:41.673+09:00 [6816:007] [Info] [JS] [#ffffffff-S] [TRACE] [JS.Calling] Setting store state None -> StartingEssentials causeId: e892be19
+2022-09-26 14:15:41.673+09:00 [6816:007] [Info] [JS] [#ffffffff-S] [TRACE] [JS.Calling] No promises waiting for state change causeId: e892be19
+2022-09-26 14:15:41.689+09:00 [6816:005] [Info] [RnSlimCoreModule] Initializing SkyLib [platform 1446] [version 8.53.0.77] [enableLogs False] [encryptLogs False]
+2022-09-26 14:15:41.710+09:00 [6816:009] [Info] [HeadlessTaskRegistrar] registerTriggers called. taskName:'SignInOnUserSessionConnected'
+2022-09-26 14:15:41.717+09:00 [6816:009] [Info] [HeadlessTaskRegistrar] Adding trigger for triggerType:'OnUserSessionConnected'
+2022-09-26 14:15:41.717+09:00 [6816:007] [Info] [JS] [#ffffffff-S] [TRACE] [JS.SISU] [BGLogin] Handling Background sign-in
+2022-09-26 14:15:41.725+09:00 [6816:009] [Info] [HeadlessTaskRegistrar] registerTriggers succeeded. taskName:'HeadlessJSTask.SignInOnUserSessionConnected', Id:'c1a43b20-30b7-459d-b899-fd36261679df'
+2022-09-26 14:15:41.725+09:00 [6816:009] [Info] [HeadlessTaskRegistrar] registerTriggers called. taskName:'SignInOnDefaultMSAConnected'
+2022-09-26 14:15:41.782+09:00 [6816:009] [Info] [RNBackgroundExecutionModule] acquire(BackgroundSignIn), wakelock id: 1, at: 1664169341, for: 5000 milliseconds
+2022-09-26 14:15:41.782+09:00 [6816:009] [Info] [HeadlessTaskRegistrar] Adding trigger for triggerType:'OnDefaultMSAConnected'
+2022-09-26 14:15:41.791+09:00 [6816:009] [Info] [HeadlessTaskRegistrar] registerTriggers succeeded. taskName:'HeadlessJSTask.SignInOnDefaultMSAConnected', Id:'792390c1-22a3-4209-a868-f2915e1a5f60'
+2022-09-26 14:15:41.791+09:00 [6816:013] [Info] [HeadlessTaskRegistrar] registerTriggers called. taskName:'BackgroundHeartbeatTelemetry'
+2022-09-26 14:15:41.797+09:00 [6816:013] [Info] [HeadlessTaskRegistrar] Adding trigger for triggerType:'OnTimerElapsed'
+2022-09-26 14:15:41.803+09:00 [6816:013] [Info] [HeadlessTaskRegistrar] registerTriggers succeeded. taskName:'HeadlessJSTask.BackgroundHeartbeatTelemetry', Id:'c47dcb87-976c-4fa1-b16d-00ff84bf06fc'
+2022-09-26 14:15:41.804+09:00 [6816:013] [Info] [HeadlessTaskRegistrar] registerTriggers called. taskName:'OnMaintenanceWindowStart'
+2022-09-26 14:15:41.809+09:00 [6816:013] [Info] [HeadlessTaskRegistrar] Adding trigger for triggerType:'OnMaintenanceWindowStart'
+2022-09-26 14:15:41.815+09:00 [6816:013] [Info] [HeadlessTaskRegistrar] registerTriggers succeeded. taskName:'HeadlessJSTask.OnMaintenanceWindowStart', Id:'23a69d54-eb64-4420-a810-e3fd358409fe'
+2022-09-26 14:15:41.815+09:00 [6816:013] [Info] [HeadlessTaskRegistrar] registerTriggers called. taskName:'ToastActivation'
+2022-09-26 14:15:41.826+09:00 [6816:013] [Info] [HeadlessTaskRegistrar] Adding trigger for triggerType:'OnLocalNotificationAction'
+2022-09-26 14:15:41.839+09:00 [6816:013] [Info] [HeadlessTaskRegistrar] registerTriggers succeeded. taskName:'HeadlessJSTask.ToastActivation', Id:'2eaab754-205c-4fbd-bac1-159fa60025d7'
+2022-09-26 14:15:41.860+09:00 [6816:005] [Info] [RnSlimCoreModule] GI::InitPlatform took 158ms
+2022-09-26 14:15:41.860+09:00 [6816:005] [Info] [RnSlimCoreModule] Write MR config took 1ms
+2022-09-26 14:15:41.877+09:00 [6816:005] [Info] [RnSlimCoreModule] SkyLib::constructor took 15ms
+2022-09-26 14:15:41.877+09:00 [6816:005] [Info] [RnSlimCoreModule] Initialized in 174ms
+2022-09-26 14:15:41.878+09:00 [6816:007] [Info] [JS] [#ffffffff-u] [TRACE] [JS.TsCalling] Calling/DeviceManager/cameras constructor
+2022-09-26 14:15:41.879+09:00 [6816:007] [Info] [JS] [#ffffffff-u] [TRACE] [JS.TsCalling] Calling/DeviceManager/microphones constructor
+2022-09-26 14:15:41.879+09:00 [6816:007] [Info] [JS] [#ffffffff-u] [TRACE] [JS.TsCalling] Calling/DeviceManager/speakers constructor
+2022-09-26 14:15:41.879+09:00 [6816:007] [Info] [JS] [#ffffffff-u] [TRACE] [JS.TsCalling] Calling/DeviceManager/compositeaudiodevices constructor
+2022-09-26 14:15:41.880+09:00 [6816:007] [Warn] [JS] [#ffffffff-u] [WARN] [JS.TsCalling] Calling/DeviceManager _requestDevices failed: permission not granted causeId: init
+2022-09-26 14:15:41.880+09:00 [6816:007] [Warn] [JS] [#ffffffff-u] [WARN] [JS.TsCalling] Calling/DeviceManager _requestDevices failed: permission not granted causeId: init
+2022-09-26 14:15:41.882+09:00 [6816:007] [Info] [JS] [#ffffffff-S] [TRACE] [JS.Calling] Setting state None -> Initialized causeId: 0bf742a1
+2022-09-26 14:15:41.882+09:00 [6816:007] [Info] [JS] [#ffffffff-S] [TRACE] [JS.Calling] No promises waiting for state change Initialized causeId: 0bf742a1
+2022-09-26 14:15:41.882+09:00 [6816:007] [Info] [JS] [#ffffffff-u] [TRACE] [JS.TsCalling] Calling/SlimcoreRNStack returning default callRegistry
+2022-09-26 14:15:41.882+09:00 [6816:007] [Info] [JS] [#ffffffff-u] [TRACE] [JS.TsCalling] Calling/DeviceManager requestInitialDeviceEnumeration: enumeration complete success false causeId init
+2022-09-26 14:15:41.909+09:00 [6816:007] [Info] [JS] [#ffffffff-S] [TRACE] [JS.Calling] Setting store state StartingEssentials -> StartedEssentials causeId: 850b92da
+2022-09-26 14:15:41.909+09:00 [6816:007] [Info] [JS] [#ffffffff-S] [TRACE] [JS.Calling] No promises waiting for state change causeId: 850b92da
+2022-09-26 14:15:41.909+09:00 [6816:009] [Info] [RnSlimCoreModule] Starting SkyLib
+2022-09-26 14:15:42.030+09:00 [6816:007] [Info] [JS] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] SharedId updated, will be saved on startup
+2022-09-26 14:15:42.145+09:00 [6816:007] [Info] [JS] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] ECS - Config fetch complete
+2022-09-26 14:15:42.605+09:00 [6816:009] [Info] [RnSlimCoreModule] SkyLib::Start took 703ms
+2022-09-26 14:15:42.615+09:00 [6816:009] [Info] [RnSlimCoreModule] OnAvailableDeviceListChange causeId: 6AA04F98
+2022-09-26 14:15:42.615+09:00 [6816:009] [Info] [RnSlimCoreModule] sendEvent RNSlimcore-DevicesChangedEvent 6AA04F98
+2022-09-26 14:15:42.615+09:00 [6816:009] [Info] [RnSlimCoreModule] OnAvailableVideoDeviceListChange causeId: 4D95D728
+2022-09-26 14:15:42.615+09:00 [6816:009] [Info] [RnSlimCoreModule] sendEvent RNSlimcore-DevicesChangedEvent 4D95D728
+2022-09-26 14:15:42.615+09:00 [6816:009] [Info] [RnSlimCoreModule] OnAvailableVideoDeviceListChange causeId: 32DC4483
+2022-09-26 14:15:42.615+09:00 [6816:009] [Info] [RnSlimCoreModule] sendEvent RNSlimcore-DevicesChangedEvent 32DC4483
+2022-09-26 14:15:42.615+09:00 [6816:009] [Info] [RnSlimCoreModule] sendEvent RNSlimcore-MediaStatusChangedEvent 1
+2022-09-26 14:15:42.618+09:00 [6816:007] [Warn] [JS] [#ffffffff-u] [WARN] [JS.TsCalling] Calling/DeviceManager _requestDevices failed: permission not granted causeId: 6AA04F98
+2022-09-26 14:15:42.618+09:00 [6816:007] [Warn] [JS] [#ffffffff-u] [WARN] [JS.TsCalling] Calling/DeviceManager _handleDevicesChange failed: _requestDevices failed: permission not granted causeId: 6AA04F98
+2022-09-26 14:15:42.618+09:00 [6816:007] [Warn] [JS] [#ffffffff-u] [WARN] [JS.TsCalling] Calling/DeviceManager _requestDevices failed: permission not granted causeId: 4D95D728
+2022-09-26 14:15:42.618+09:00 [6816:007] [Warn] [JS] [#ffffffff-u] [WARN] [JS.TsCalling] Calling/DeviceManager _handleDevicesChange failed: _requestDevices failed: permission not granted causeId: 4D95D728
+2022-09-26 14:15:42.619+09:00 [6816:007] [Warn] [JS] [#ffffffff-u] [WARN] [JS.TsCalling] Calling/DeviceManager _requestDevices failed: permission not granted causeId: 32DC4483
+2022-09-26 14:15:42.619+09:00 [6816:007] [Warn] [JS] [#ffffffff-u] [WARN] [JS.TsCalling] Calling/DeviceManager _handleDevicesChange failed: _requestDevices failed: permission not granted causeId: 32DC4483
+2022-09-26 14:15:42.638+09:00 [6816:014] [Info] [RNMSATokenFetcherModule] Retrieving access token silently
+2022-09-26 14:15:42.638+09:00 [6816:014] [Info] [WAMTokenCacheManager] Account settings not found using old cache keys for service::lw.skype.com::MBI_SSL.
+2022-09-26 14:15:42.638+09:00 [6816:014] [Info] [WAMTokenManager] Cached Web Account Id does not exist for authScope: service::lw.skype.com::MBI_SSL
+2022-09-26 14:15:42.638+09:00 [6816:014] [Info] [WAMTokenManager] [Default MSA] Retrieving access token for authScope: service::lw.skype.com::MBI_SSL
+2022-09-26 14:15:42.683+09:00 [6816:014] [Warn] [WAMTokenManager] [Default MSA] No default MSA available on the machine
+2022-09-26 14:15:42.683+09:00 [6816:014] [Warn] [WAMTokenManager] No default MSA available
+2022-09-26 14:15:42.683+09:00 [6816:014] [Info] [RNMSATokenFetcherModule] Could not retrieve access token from WAM
+2022-09-26 14:15:42.714+09:00 [6816:014] [Info] [DeviceUtilities]  --- Registering app state handlers. ---
+2022-09-26 14:15:42.723+09:00 [6816:002] [Error] [DeviceUtilities] screenDpi - exception while accessing display information
+System.Exception: 요소가 없습니다.
+
+Windows.Graphics.Display: GetForCurrentView must be called on a thread that is associated with a CoreWindow.
+   at System.Runtime.InteropServices.McgMarshal.ThrowOnExternalCallFailed(Int32, RuntimeTypeHandle) + 0x21
+   at __Interop.ComCallHelpers.Call(__ComObject, RuntimeTypeHandle, Int32, Void*) + 0xbe
+   at __Interop.ForwardComStubs.Stub_3[TThis, TResult](__ComObject, Int32) + 0x37
+   at Com.Microsoft.React.RNDeviceUtilities.RNDeviceUtilitiesModule.GetLogicalDpi() + 0x2c
+   at Com.Microsoft.React.RNDeviceUtilities.RNDeviceUtilitiesModule.<>c__DisplayClass36_0.<screenDpi>b__0() + 0x1e
+   at System.Action.Invoke() + 0x25
+   at Com.Microsoft.React.RNDeviceUtilities.RNDeviceUtilitiesModule.<>c__DisplayClass61_0.<<DispatchOnUi>b__0>d.MoveNext() + 0x2c
+
+2022-09-26 14:16:01.659+09:00 [6816:002] [Warn] [HeadlessJSTaskService] Task failed to complete. Either timeout happened or caller cancelled. Cancelling task. Name: StaticTask.OnAppUpdated2, Id:1 Timeout:20000ms
+2022-09-26 14:16:01.660+09:00 [6816:008] [Info] [RNBackgroundExecutionModule] release(BackgroundSignIn), wakelock id: 1, at: 1664169361, is known: True
+2022-09-26 14:16:01.660+09:00 [6816:008] [Info] [RNBackgroundExecutionModule] releaseAll(BackgroundSignIn), forcing release: 0, ids: [], at: 1664169361, because last ID or Wakeful Service is being released
+2022-09-26 14:16:01.660+09:00 [6816:002] [Info] [BackgroundTaskManager] OnBackgroundActivated: ExecuteHeadlessJsTaskAsync returned type: ''
+2022-09-26 14:16:01.660+09:00 [6816:002] [Info] [RegularSkypeApplication] EnsureReactNativeHostStarted: host already started
+2022-09-26 14:16:01.660+09:00 [6816:002] [Info] [RegularSkypeApplication] GetReactContext: Creating ReactNative context (if not yet)
+2022-09-26 14:16:01.660+09:00 [6816:002] [Info] [RNW] ReactInstanceManager: GetOrCreateReactContextAsync - entry
+2022-09-26 14:16:01.660+09:00 [6816:002] [Info] [RNW] ReactInstanceManager: GetOrCreateReactContextAsync - execute
+2022-09-26 14:16:01.660+09:00 [6816:002] [Info] [RNW] ReactInstanceManager: GetOrCreateReactContextAsync - returning existing valid context
+2022-09-26 14:16:01.660+09:00 [6816:009] [Info] [RNBackgroundExecutionModule] Beginning WaitForAllExtendedExecutionSessionsRelease. ids: []
+2022-09-26 14:16:01.660+09:00 [6816:002] [Info] [BackgroundTaskManager] RNBackgroundExecution.waitForAllExtendedExecutionSessionsRelease result True
+2022-09-26 14:16:01.660+09:00 [6816:009] [Info] [RegularSkypeApplication] OnBackgroundActivated completing deferral
+2022-09-26 14:16:01.666+09:00 [6816:009] [Info] [DeviceUtilities] App is suspending
+2022-09-26 14:16:01.667+09:00 [6816:002] [Info] [Lifecycle] OnSuspendingImplAsync: Start
+2022-09-26 14:16:01.667+09:00 [6816:002] [Info] [RegularSkypeApplication] PauseReactNativeHost: pausing host
+2022-09-26 14:16:01.667+09:00 [6816:002] [Info] [RegularSkypeApplication] PauseReactNativeHost: host paused
+2022-09-26 14:16:01.667+09:00 [6816:004] [Info] [CallKitManagerModule] OnSuspend (causeId: 3e40f335-01d3-445b-8b66-970b83ea6d0a)
+2022-09-26 14:16:01.698+09:00 [6816:002] [Info] [RNW] ReactInstanceManager: TryGetReactContextAsync - entry
+2022-09-26 14:16:01.698+09:00 [6816:002] [Info] [RNW] ReactInstanceManager: TryGetReactContextAsync - execute/returning existing valid context
+2022-09-26 14:16:01.698+09:00 [6816:004] [Info] [RNBackgroundExecutionModule] Beginning WaitForAllExtendedExecutionSessionsRelease. ids: []
+2022-09-26 14:16:01.699+09:00 [6816:002] [Info] [BackgroundTaskManager] RNBackgroundExecution.waitForAllExtendedExecutionSessionsRelease result True
+2022-09-26 14:16:01.699+09:00 [6816:004] [Info] [RegularSkypeApplication] WaitForAllBackgroundTasksCompletionReturned. Remaining time: 4466.4566ms
+2022-09-26 14:16:01.744+09:00 [6816:004] [Info] [RegularSkypeApplication] OnSuspendingImplAsync: Complete

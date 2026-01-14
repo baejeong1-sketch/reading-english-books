@@ -1,0 +1,49 @@
+kakaotalk
+new
+25.11.1.4877
+old
+25.11.0.4873
+old~1
+25.10.1.4840
+old~2
+25.10.0.4833
+deployment_ratio
+100
+removed
+0
+removed~1
+11
+skin\default\layout\GroupFaceTalkUserFeedbackSurveyView.xml
+skin\default\image\svgs\voiceroom\chat_list_icon_voice_en.svg
+skin\default\image\3.0\x1.5\vox_img_mos.png
+skin\default\layout\GroupFaceTalkUserFeedbackDlg.xml
+skin\default\image\svgs\voiceroom\chat_list_icon_voice.svg
+skin\default\image\3.0\x2.0\vox_img_mos.png
+skin\default\layout\MoimBackupProgressWnd.xml
+skin\default\layout\drawer\DrawerMsgBox.xml
+skin\default\image\svgs\voiceroom\chat_icon_vroomon.svg
+skin\default\image\3.0\x1.25\vox_img_mos.png
+skin\default\image\3.0\vox_img_mos.png
+removed~2
+11
+skin\default\layout\GroupFaceTalkUserFeedbackSurveyView.xml
+skin\default\image\svgs\voiceroom\chat_list_icon_voice_en.svg
+skin\default\image\3.0\x1.5\vox_img_mos.png
+skin\default\layout\GroupFaceTalkUserFeedbackDlg.xml
+skin\default\image\svgs\voiceroom\chat_list_icon_voice.svg
+skin\default\image\3.0\x2.0\vox_img_mos.png
+skin\default\layout\MoimBackupProgressWnd.xml
+skin\default\layout\drawer\DrawerMsgBox.xml
+skin\default\image\svgs\voiceroom\chat_icon_vroomon.svg
+skin\default\image\3.0\x1.25\vox_img_mos.png
+skin\default\image\3.0\vox_img_mos.png
+kakaoupdate
+KakaoUpdate.exe 0 2812960 3087638065
+pak
+4
+kakaotalk_25.11.1.4877_full.pak 0 87545098 1190385273
+kakaotalk_25.11.0.4873_25.11.1.4877_diff.pak 1 27551483 392008637
+kakaotalk_25.10.1.4840_25.11.1.4877_diff.pak 2 43658879 3741923641
+kakaotalk_25.10.0.4833_25.11.1.4877_diff.pak 3 43658879 3741923641
+
+signature Ua/FNNlNx/8oo6hiMf2tG3tefBL2SsT6DbmEgok7hvjG2zQImxsRY/Yj11/nqJjRR3W2jK0uVV/1Qn55n+Anw5edeDpwClI3qJUAWSuCCb1nd/7mZKrMDsAVjV8qvG/lou9I7RlQ9QxHHv12AkMu/wjLtzA14sToq+lQq2zOHro=

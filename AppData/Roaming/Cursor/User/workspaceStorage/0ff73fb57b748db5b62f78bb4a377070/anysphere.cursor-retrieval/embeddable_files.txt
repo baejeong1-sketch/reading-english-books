@@ -1,0 +1,8 @@
+package.json
+api\generate.js
+.gitignore
+server.js
+prompt.md
+public\styles.css
+public\index.html
+public\script.js

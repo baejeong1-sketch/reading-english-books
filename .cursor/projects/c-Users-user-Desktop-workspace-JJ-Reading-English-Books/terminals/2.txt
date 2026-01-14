@@ -1,0 +1,17 @@
+---
+pid: -1
+cwd: |
+  C:\Users\user\Desktop\workspace\JJ_Reading_English_Books
+active_command: npm run dev
+---
+$ npm run dev
+
+> jj-reading-english-books@0.1.0 dev
+> vite
+
+The CJS build of Vite's Node API is deprecated. See https://vite.dev/guide/troubleshooting.html#vite-cjs-node-api-deprecated for more details.
+
+  VITE v5.4.21  ready in 398 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose

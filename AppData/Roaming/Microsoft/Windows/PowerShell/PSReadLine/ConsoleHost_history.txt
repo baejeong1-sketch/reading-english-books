@@ -1,0 +1,12 @@
+git__version
+git --version
+node--version
+node --version
+npm --version
+node --version
+git --version
+node --version
+npm --version
+git --version
+node --version
+npm --version

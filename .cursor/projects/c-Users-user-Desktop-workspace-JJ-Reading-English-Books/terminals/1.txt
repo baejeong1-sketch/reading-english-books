@@ -1,0 +1,21 @@
+---
+pid: -1
+cwd: |
+  C:\Users\user\Desktop\workspace\JJ_Reading_English_Books
+last_command: |
+  cd C:\Users\user\Desktop\workspace\JJ_Reading_English_Books && npm install &&npm run dev
+last_exit_code: 1
+---
+$ cd C:\Users\user\Desktop\workspace\JJ_Reading_English_Books && npm install && npm run dev
+��ġ C:\Users\user\AppData\Local\Temp\ps-script-861411e3-a170-47b0-9583-929ea2e5f237.ps1:7 ����:61
++ ... d C:\Users\user\Desktop\workspace\JJ_Reading_English_Books && npm ins ...
++                                                                ~~
+'&&' ��ū�� �� �������� �ùٸ� �� ���� ��ȣ�� �ƴմϴ�.
+��ġ C:\Users\user\AppData\Local\Temp\ps-script-861411e3-a170-47b0-9583-929ea2e5f237.ps1:7 ����:76
++ ... \Desktop\workspace\JJ_Reading_English_Books && npm install && npm run ...
++                                                                ~~
+'&&' ��ū�� �� �������� �ùٸ� �� ���� ��ȣ�� �ƴմϴ�.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : InvalidEndOfLine
+ 
+$

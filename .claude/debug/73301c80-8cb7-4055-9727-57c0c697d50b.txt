@@ -1,0 +1,113 @@
+2026-01-13T06:28:03.875Z [DEBUG] [init] configureGlobalMTLS starting
+2026-01-13T06:28:03.876Z [DEBUG] [init] configureGlobalMTLS complete
+2026-01-13T06:28:03.876Z [DEBUG] [init] configureGlobalAgents starting
+2026-01-13T06:28:03.876Z [DEBUG] [init] configureGlobalAgents complete
+2026-01-13T06:28:03.913Z [DEBUG] Using bash path: "C:\Program Files\Git\bin\bash.exe"
+2026-01-13T06:28:03.922Z [DEBUG] [LSP MANAGER] initializeLspServerManager() called
+2026-01-13T06:28:03.922Z [DEBUG] [LSP MANAGER] Created manager instance, state=pending
+2026-01-13T06:28:03.922Z [DEBUG] [LSP MANAGER] Starting async initialization (generation 1)
+2026-01-13T06:28:03.924Z [DEBUG] [STARTUP] Loading MCP configs...
+2026-01-13T06:28:03.939Z [DEBUG] Found 0 plugins (0 enabled, 0 disabled)
+2026-01-13T06:28:03.939Z [DEBUG] Total LSP servers loaded: 0
+2026-01-13T06:28:03.939Z [DEBUG] [LSP SERVER MANAGER] getAllLspServers returned 0 server(s)
+2026-01-13T06:28:03.939Z [DEBUG] LSP manager initialized with 0 servers
+2026-01-13T06:28:03.939Z [DEBUG] [STARTUP] MCP configs loaded in 15ms
+2026-01-13T06:28:03.940Z [DEBUG] LSP server manager initialized successfully
+2026-01-13T06:28:03.940Z [DEBUG] LSP notification handlers registered successfully for all 0 server(s)
+2026-01-13T06:28:03.941Z [DEBUG] [STARTUP] Running setup()...
+2026-01-13T06:28:03.962Z [DEBUG] Loading skills from: managed=C:\ProgramData\ClaudeCode\.claude\skills, user=C:\Users\user\.claude\skills, project=[]
+2026-01-13T06:28:03.975Z [DEBUG] installed_plugins.json doesn't exist, returning empty V2 object
+2026-01-13T06:28:03.978Z [DEBUG] Error log sink initialized
+2026-01-13T06:28:04.003Z [DEBUG] Writing to temp file: C:\Users\user\.claude\todos\73301c80-8cb7-4055-9727-57c0c697d50b-agent-73301c80-8cb7-4055-9727-57c0c697d50b.json.tmp.1192.1768285684003
+2026-01-13T06:28:04.005Z [DEBUG] Temp file written successfully, size: 2 bytes
+2026-01-13T06:28:04.005Z [DEBUG] Renaming C:\Users\user\.claude\todos\73301c80-8cb7-4055-9727-57c0c697d50b-agent-73301c80-8cb7-4055-9727-57c0c697d50b.json.tmp.1192.1768285684003 to C:\Users\user\.claude\todos\73301c80-8cb7-4055-9727-57c0c697d50b-agent-73301c80-8cb7-4055-9727-57c0c697d50b.json
+2026-01-13T06:28:04.005Z [DEBUG] File C:\Users\user\.claude\todos\73301c80-8cb7-4055-9727-57c0c697d50b-agent-73301c80-8cb7-4055-9727-57c0c697d50b.json written atomically
+2026-01-13T06:28:04.019Z [DEBUG] getPluginSkills: Processing 0 enabled plugins
+2026-01-13T06:28:04.019Z [DEBUG] Total plugin skills loaded: 0
+2026-01-13T06:28:04.019Z [DEBUG] Total plugin commands loaded: 0
+2026-01-13T06:28:04.019Z [DEBUG] Registered 0 hooks from 0 plugins
+2026-01-13T06:28:04.043Z [DEBUG] Loaded 0 unique skills (managed: 0, user: 0, project: 0, legacy commands: 0)
+2026-01-13T06:28:04.044Z [DEBUG] [STARTUP] setup() completed in 103ms
+2026-01-13T06:28:04.044Z [DEBUG] [STARTUP] Loading commands and agents...
+2026-01-13T06:28:04.045Z [DEBUG] getSkills returning: 0 skill dir commands, 0 plugin skills, 0 bundled skills
+2026-01-13T06:28:04.046Z [DEBUG] Total plugin agents loaded: 0
+2026-01-13T06:28:04.046Z [DEBUG] [STARTUP] Commands and agents loaded in 2ms
+2026-01-13T06:28:04.046Z [DEBUG] [STARTUP] Running showSetupScreens()...
+2026-01-13T06:28:04.049Z [DEBUG] [render] initYoga starting
+2026-01-13T06:28:04.067Z [DEBUG] [render] initYoga complete
+2026-01-13T06:28:04.075Z [DEBUG] [keybindings] KeybindingSetup initialized with 40 bindings, 0 warnings
+2026-01-13T06:28:04.110Z [DEBUG] [keybindings] Skipping file watcher - user customization disabled
+2026-01-13T06:28:04.114Z [DEBUG] Creating shell snapshot for bash (C:\Program Files\Git\bin\bash.exe)
+2026-01-13T06:28:04.114Z [DEBUG] Looking for shell config file: C:\Users\user\.bashrc
+2026-01-13T06:28:04.114Z [DEBUG] Shell config file not found: C:\Users\user\.bashrc, creating snapshot with Claude Code defaults only
+2026-01-13T06:28:04.114Z [DEBUG] Snapshots directory: C:\Users\user\.claude\shell-snapshots
+2026-01-13T06:28:04.164Z [DEBUG] Creating snapshot at: C:\Users\user\.claude\shell-snapshots\snapshot-bash-1768285684114-zquosf.sh
+2026-01-13T06:28:04.164Z [DEBUG] Shell binary exists: true
+2026-01-13T06:28:04.164Z [DEBUG] Execution timeout: 10000ms
+2026-01-13T06:28:04.185Z [DEBUG] Writing to temp file: C:\Users\user\.claude.json.tmp.1192.1768285684185
+2026-01-13T06:28:04.185Z [DEBUG] Preserving file permissions: 100666
+2026-01-13T06:28:04.186Z [DEBUG] Temp file written successfully, size: 839 bytes
+2026-01-13T06:28:04.186Z [DEBUG] Applied original permissions to temp file
+2026-01-13T06:28:04.186Z [DEBUG] Renaming C:\Users\user\.claude.json.tmp.1192.1768285684185 to C:\Users\user\.claude.json
+2026-01-13T06:28:04.186Z [DEBUG] File C:\Users\user\.claude.json written atomically
+2026-01-13T06:28:04.945Z [DEBUG] Shell snapshot created successfully (341 bytes)
+2026-01-13T06:30:07.299Z [DEBUG] Writing to temp file: C:\Users\user\.claude.json.tmp.1192.1768285807299
+2026-01-13T06:30:07.299Z [DEBUG] Preserving file permissions: 100666
+2026-01-13T06:30:07.300Z [DEBUG] Temp file written successfully, size: 859 bytes
+2026-01-13T06:30:07.300Z [DEBUG] Applied original permissions to temp file
+2026-01-13T06:30:07.300Z [DEBUG] Renaming C:\Users\user\.claude.json.tmp.1192.1768285807299 to C:\Users\user\.claude.json
+2026-01-13T06:30:07.300Z [DEBUG] File C:\Users\user\.claude.json written atomically
+2026-01-13T06:30:07.303Z [DEBUG] Writing to temp file: C:\Users\user\.claude.json.tmp.1192.1768285807303
+2026-01-13T06:30:07.303Z [DEBUG] Preserving file permissions: 100666
+2026-01-13T06:30:07.304Z [DEBUG] Temp file written successfully, size: 859 bytes
+2026-01-13T06:30:07.304Z [DEBUG] Applied original permissions to temp file
+2026-01-13T06:30:07.304Z [DEBUG] Renaming C:\Users\user\.claude.json.tmp.1192.1768285807303 to C:\Users\user\.claude.json
+2026-01-13T06:30:07.304Z [DEBUG] File C:\Users\user\.claude.json written atomically
+2026-01-13T06:30:24.442Z [DEBUG] Writing to temp file: C:\Users\user\.claude.json.tmp.1192.1768285824442
+2026-01-13T06:30:24.442Z [DEBUG] Preserving file permissions: 100666
+2026-01-13T06:30:24.443Z [DEBUG] Temp file written successfully, size: 859 bytes
+2026-01-13T06:30:24.443Z [DEBUG] Applied original permissions to temp file
+2026-01-13T06:30:24.443Z [DEBUG] Renaming C:\Users\user\.claude.json.tmp.1192.1768285824442 to C:\Users\user\.claude.json
+2026-01-13T06:30:24.444Z [DEBUG] File C:\Users\user\.claude.json written atomically
+2026-01-13T06:30:24.453Z [DEBUG] Writing to temp file: C:\Users\user\.claude.json.tmp.1192.1768285824453
+2026-01-13T06:30:24.453Z [DEBUG] Preserving file permissions: 100666
+2026-01-13T06:30:24.454Z [DEBUG] Temp file written successfully, size: 859 bytes
+2026-01-13T06:30:24.454Z [DEBUG] Applied original permissions to temp file
+2026-01-13T06:30:24.454Z [DEBUG] Renaming C:\Users\user\.claude.json.tmp.1192.1768285824453 to C:\Users\user\.claude.json
+2026-01-13T06:30:24.454Z [DEBUG] File C:\Users\user\.claude.json written atomically
+2026-01-13T06:30:24.811Z [DEBUG] Writing to temp file: C:\Users\user\.claude.json.tmp.1192.1768285824811
+2026-01-13T06:30:24.811Z [DEBUG] Preserving file permissions: 100666
+2026-01-13T06:30:24.811Z [DEBUG] Temp file written successfully, size: 1109 bytes
+2026-01-13T06:30:24.812Z [DEBUG] Applied original permissions to temp file
+2026-01-13T06:30:24.812Z [DEBUG] Renaming C:\Users\user\.claude.json.tmp.1192.1768285824811 to C:\Users\user\.claude.json
+2026-01-13T06:30:24.812Z [DEBUG] File C:\Users\user\.claude.json written atomically
+2026-01-13T06:30:25.088Z [DEBUG] Writing to temp file: C:\Users\user\.claude.json.tmp.1192.1768285825088
+2026-01-13T06:30:25.088Z [DEBUG] Preserving file permissions: 100666
+2026-01-13T06:30:25.090Z [DEBUG] Temp file written successfully, size: 1216 bytes
+2026-01-13T06:30:25.090Z [DEBUG] Applied original permissions to temp file
+2026-01-13T06:30:25.090Z [DEBUG] Renaming C:\Users\user\.claude.json.tmp.1192.1768285825088 to C:\Users\user\.claude.json
+2026-01-13T06:30:25.092Z [DEBUG] File C:\Users\user\.claude.json written atomically
+2026-01-13T06:30:26.058Z [DEBUG] Writing to temp file: C:\Users\user\.claude.json.tmp.1192.1768285826058
+2026-01-13T06:30:26.059Z [DEBUG] Preserving file permissions: 100666
+2026-01-13T06:30:26.060Z [DEBUG] Temp file written successfully, size: 1454 bytes
+2026-01-13T06:30:26.060Z [DEBUG] Applied original permissions to temp file
+2026-01-13T06:30:26.060Z [DEBUG] Renaming C:\Users\user\.claude.json.tmp.1192.1768285826058 to C:\Users\user\.claude.json
+2026-01-13T06:30:26.060Z [DEBUG] File C:\Users\user\.claude.json written atomically
+2026-01-13T06:30:26.065Z [DEBUG] Skipping Notification:auth_success hook execution - workspace trust not accepted
+2026-01-13T06:31:20.873Z [DEBUG] Writing to temp file: C:\Users\user\.claude.json.tmp.1192.1768285880873
+2026-01-13T06:31:20.873Z [DEBUG] Preserving file permissions: 100666
+2026-01-13T06:31:20.875Z [DEBUG] Temp file written successfully, size: 1495 bytes
+2026-01-13T06:31:20.875Z [DEBUG] Applied original permissions to temp file
+2026-01-13T06:31:20.875Z [DEBUG] Renaming C:\Users\user\.claude.json.tmp.1192.1768285880873 to C:\Users\user\.claude.json
+2026-01-13T06:31:20.876Z [DEBUG] File C:\Users\user\.claude.json written atomically
+2026-01-13T06:31:20.881Z [DEBUG] Writing to temp file: C:\Users\user\.claude.json.tmp.1192.1768285880881
+2026-01-13T06:31:20.881Z [DEBUG] Preserving file permissions: 100666
+2026-01-13T06:31:20.881Z [DEBUG] Temp file written successfully, size: 1565 bytes
+2026-01-13T06:31:20.882Z [DEBUG] Applied original permissions to temp file
+2026-01-13T06:31:20.882Z [DEBUG] Renaming C:\Users\user\.claude.json.tmp.1192.1768285880881 to C:\Users\user\.claude.json
+2026-01-13T06:31:20.882Z [DEBUG] File C:\Users\user\.claude.json written atomically
+2026-01-13T06:31:20.885Z [DEBUG] [render] initYoga starting
+2026-01-13T06:31:20.885Z [DEBUG] [render] initYoga complete
+2026-01-13T06:31:20.888Z [DEBUG] [keybindings] KeybindingSetup initialized with 40 bindings, 0 warnings
+2026-01-13T06:31:20.903Z [DEBUG] [keybindings] Skipping file watcher - user customization disabled
+2026-01-13T06:31:38.651Z [DEBUG] Skipping SessionEnd:other hook execution - workspace trust not accepted
